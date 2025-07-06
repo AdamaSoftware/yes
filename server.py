@@ -8,7 +8,7 @@ from Crypto.Cipher import AES
 from pqcrypto.kem.ml_kem_1024 import encrypt
 
 SERVER_HOST = "0.0.0.0"
-SERVER_PORT = 12346
+SERVER_PORT = 25572
 
 lock = threading.Lock()
 
